@@ -7,6 +7,5 @@ while e!="x":
         if e!="x": print(eval(e))
     except:
         print("Unexpected format/character recognised please try again")
-
 else:
     print("Exited")
